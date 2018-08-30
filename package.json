@@ -1,0 +1,22 @@
+{
+  "name": "whisper-examples",
+  "version": "1.0.0",
+  "description": "Whisper examples for demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clear-me/whisper-examples.git"
+  },
+  "author": "Eric Badiere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clear-me/whisper-examples/issues"
+  },
+  "homepage": "https://github.com/clear-me/whisper-examples#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.34"
+  }
+}

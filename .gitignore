@@ -1,0 +1,9 @@
+.idea
+.tern-port
+.DS_Store
+node_modules/
+infura.env
+passPhrase.env
+*.log
+/build
+.truffle-solidity-loader
